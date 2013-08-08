@@ -2,6 +2,7 @@ SwipeLayers ADDON
 =================
 
 Typical configuration to include in your GEOR_custom.js file:
+```
 	{
         "id": "swipelayers",
         "name": "SwipeLayers",
@@ -16,3 +17,4 @@ Typical configuration to include in your GEOR_custom.js file:
             "fr": "Cela permet une analyse comparative simultanée de deux couches qui se superposent."
         }
     }
+```
